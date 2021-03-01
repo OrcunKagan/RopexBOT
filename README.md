@@ -1,4 +1,4 @@
-# Ropex Bot / OrcunKagan
+# Ropex Bot
 
  Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması / kullanılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
