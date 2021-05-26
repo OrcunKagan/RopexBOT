@@ -1,4 +1,4 @@
-**5846 Sayılı Fikir ve Sanat Eserlerini Koruma Kanunu**
+# **5846 Sayılı Fikir ve Sanat Eserlerini Koruma Kanunu**
 
 
 Bu botun içeriği, tasarımı ve botun içindeki tüm dokümanlara ait hakları saklıdır. Botun içerisinde yer alan komutların aksi belirtilmediği sürece, botun içindeki hiçbir komut unsurları ve diğer unsurlar izin alınmaksızın __kopyalanamaz, başka yere taşınamaz, alıntı yapılamaz, internet üzerinde veya her ne şekilde olursa olsun yayınlanamaz ve kullanılamaz.__ Bu botu kullanan kullanıcılar, botun telif hakkı konusunda **Orçun Kağan'ın** tüm talep ve açıklamalarını kabul ettiklerini beyan ve taahhüt ederler. Hakları saklı tutulmuş eserler, sahiplerinin muvafakati olmadan hiç bir suretle __çoğaltılamaz, alıntı yapılamaz, yayınlanamaz, başka bir yerde kullanılamaz.__
